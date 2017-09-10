@@ -1,9 +1,7 @@
 # Kaggle-Income_data
 Kaggle data analysis using Multivariate Analysis
 
-• May 1 (Mon) : Submit Group members by e-mail (lee.eunk@ewha.ac.kr)
-
-• May 2 (Tue) : Open Team Project Board on Cyber Campus
+#### Plan
 
 • May 10 (Wed) : Submit your data including data description
 
