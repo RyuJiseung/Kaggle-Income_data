@@ -1,6 +1,20 @@
 # Kaggle-Income_data
 Kaggle data analysis using Multivariate Analysis
 
+• May 1 (Mon) : Submit Group members by e-mail (lee.eunk@ewha.ac.kr)
+
+• May 2 (Tue) : Open Team Project Board on Cyber Campus
+
+• May 10 (Wed) : Submit your data including data description
+
+• May 22 (Mon) : Submit EDA and a brief plan for your analysis
+
+• June 7 (Wed) 18:30 ~ 21:00 Final Exam (Posco 462)
+
+• June 14 (Mon) : Submit your slides and final report
+
+• June 12/14 (Mon/Wed): Presentation
+
 #### - Data source : http://archive.ics.uci.edu/ml/datasets/Census+Income
 
 #### - Object : Predicting Income Level
