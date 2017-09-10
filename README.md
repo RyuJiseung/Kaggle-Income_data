@@ -1,7 +1,7 @@
 # Kaggle-Income_data
 Kaggle data analysis using Multivariate Analysis
 
-#### Plan
+#### - Plan
 
 • May 10 (Wed) : Submit your data including data description
 
