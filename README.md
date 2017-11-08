@@ -1,6 +1,12 @@
 # Kaggle-Income_data
 Kaggle data analysis using Multivariate Analysis
 
+#### - Result
+
+    - [EDA](https://github.com/RyuJiseung/Kaggle-Income_data/blob/master/JupyterNotebook/1_EDA.ipynb)
+    - [Analysis](https://github.com/RyuJiseung/Kaggle-Income_data/blob/master/JupyterNotebook/2_Analysis.ipynb)
+    - [Final Analysis](https://github.com/RyuJiseung/Kaggle-Income_data/blob/master/JupyterNotebook/3_Final%20Analysis.ipynb)
+
 #### - Plan
 
 • May 10 (Wed) : Submit your data including data description
